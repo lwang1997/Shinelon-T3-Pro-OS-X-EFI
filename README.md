@@ -1,4 +1,4 @@
-# Shinelon-T3-Pro-OS-X-EFI
+# 炫龙T3 Pro i5-9300H版 Shinelon-T3-Pro-OS-X-EFI
 
 已知问题：
 1.触摸板不能关闭
